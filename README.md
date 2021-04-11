@@ -1,6 +1,6 @@
 # Obsidian-CSS
 
-CSS snippets used in Obsidian. Most of the snippets are incoporated in the 'Obsidian-Custom-Atom-Theme-CSS-Snippet.css' file. 
+This repo contains all CSS snippets used in Obsidian. Most of the snippets are incoporated in the 'Obsidian-Custom-Atom-Theme-CSS-Snippet.css' file. 
 
 In this file, 
 I have applied custom font color and minor tweaks. The following snippets are applied:
