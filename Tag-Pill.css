@@ -1,0 +1,37 @@
+
+/* ====== Tag Pills ======== */
+.tag:not(.token) {
+	background-color:#b3b1b1;
+	border: none;
+	color: white;
+	font-size: inherit;
+	padding: 3px 14px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 1px;
+	cursor: pointer;
+	border-radius: 14px;
+}
+.tag:not(.token):hover {
+	color: white;
+	background-color: #a8a6a6;
+}
+.tag[href^="#obsidian"] {
+	background-color: #bbbbbb;
+}
+.tag[href^="#important"] {
+	background-color: red;
+}
+.tag[href^="#complete"] {
+	background-color: green;
+}
+.tag[href^="#inprogress"] {
+	background-color: orange;
+}
+
+.tag[href^="#todo"] {
+	background-color: #798777;
+}
+
+
